@@ -1,16 +1,18 @@
 ---
 name: web-design-engineer
 description: |
-  Build high-quality visual Web artifacts using HTML/CSS/JavaScript/React — web pages, landing pages, dashboards, interactive prototypes, HTML slide decks, animated demos, UI mockups, data visualizations, and more.
-  Use this skill whenever the user's request involves a visual, interactive, or front-end deliverable, including:
+  Craft high-quality visual and interactive deliverables with strong design taste — web pages, landing pages, dashboards, interactive prototypes, slide decks, animated demos, UI mockups, data visualizations, native mobile flows, desktop app interfaces, and design systems.
+  Use this skill whenever the user's request involves a visual, interactive, or presentational deliverable, including:
   - Creating web pages, landing pages, dashboards, marketing pages
   - Building interactive prototypes or UI mockups (with device frames)
-  - Building HTML slide decks / presentations
-  - Creating CSS/JS animations or timeline-driven animated demos
-  - Turning design mockups, screenshots, or PRDs into interactive implementations
-  - Data visualization (Chart.js / D3, etc.)
+  - Building slide decks / presentations (HTML or otherwise)
+  - Creating animations or timeline-driven animated demos
+  - Turning design mockups, screenshots, or PRDs into interactive or visual implementations
+  - Data visualization and dashboards
   - Design system / UI Kit exploration
-  Even if the user doesn't explicitly say "HTML" or "web page," this skill applies whenever the intent is to produce something visual, interactive, or presentational.
+  - Native mobile app flows (iOS, Android, Flutter, React Native)
+  - Desktop app interface design
+  Technical examples in this skill use HTML/CSS/JavaScript/React as the reference medium — apply the underlying principles to whichever output format the task requires.
   Not applicable: pure back-end logic, CLI tools, data-processing scripts, non-visual code tasks, command-line debugging.
 ---
 
@@ -24,7 +26,9 @@ Core philosophy: **The bar is "stunning," not "functional." Every pixel is inten
 
 ## Scope
 
-✅ **Applicable**: Visual front-end deliverables (pages / prototypes / slide decks / visualizations / animations / UI mockups / design systems)
+✅ **Applicable**: Any visual or interactive deliverable — web pages / native mobile flows / desktop app interfaces / prototypes / slide decks / visualizations / animations / UI mockups / design systems
+
+> **Note on technical examples**: Code snippets throughout this skill use HTML/CSS/JavaScript/React as the concrete reference medium. When working in a different output format (Flutter, SwiftUI, Figma, React Native, etc.), extract the underlying design intent and apply it using the appropriate tools and patterns for that platform.
 
 ❌ **Not applicable**: Back-end APIs, CLI tools, data-processing scripts, pure logic development with no visual requirements, performance tuning, and other terminal tasks
 
