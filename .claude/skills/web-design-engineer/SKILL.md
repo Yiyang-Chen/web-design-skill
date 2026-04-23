@@ -102,6 +102,8 @@ Design Decisions:
 - Includes: core structure + color/typography tokens + key module placeholders (with explicit markers like `[image]` `[icon]`) + your list of design assumptions
 - **Does not include**: content details, complete component library, all states, motion
 
+> **Image generation priority**: If an image generation tool is available in the current environment, use it to generate a finished reference image of the design before building the v0 — a rendered visual lets the user validate direction far faster than a placeholder-only skeleton. Fall back to the placeholder v0 only when no generation tool is accessible.
+
 A v0 with assumptions and placeholders is more valuable than a "perfect v1" that took 3x the time — if the direction is wrong, the latter has to be scrapped entirely.
 
 ### Step 5: Full Build
